@@ -1,0 +1,70 @@
+.ayoubon {
+    height: 120px;
+    margin-top: 20px;
+}
+
+body {
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    margin-right: 40px;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    margin-top: -5px;
+    color: #4287f5;
+}
+
+li {
+    margin-bottom: 20px;
+    background-color: #4287f5;
+    width: 100px;
+    text-align: center;
+}
+
+td {
+    margin: 20px;
+    background-color: #4287f5;
+    width: 70px;
+}
+
+.bal {
+    color: #4287f5;
+    height: 30px;
+}
+
+.cadre {
+    width: 200px;
+    margin-left: 41.5%;
+    margin-bottom: 30px;
+}
+
+.ach {
+    background-image: url("https://lh3.googleusercontent.com/proxy/YvkulRm5RHp57KrqGbzzPw52yJVV5cR_q51PW_zWT6VhwR583XXhb72mwy0wm0Blxe9duNzQVzwjt3eZ4yJvlwKk3SycWWr8OG4VIyLVd6nqEFALxc6BjhwZ1UOykA");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1 {
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+    font-size: 40px;
+}
+
+.goddo {
+    background-color: #4287f5;
+    color: azure;
+    height: 30px;
+}
+
+.goddo:hover {
+    background-color: rgb(180, 250, 255);
+    color: black;
+    animation: forwards;
+}
